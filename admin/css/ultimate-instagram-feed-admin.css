@@ -1,0 +1,27 @@
+#uif_shortcode_div ul li,#uif_urls_div ul li{font-size: 15px;padding:5px 0;font-weight: bold;}
+#uif_shortcode_div ul li input, #uif_urls_div ul li input{width: 38em;
+    background: #f9f9f9;
+    padding: 10px 5px;}
+
+.uif_code{  line-height: 1.8;
+    background: #e2e2e2;
+    padding: 15px;
+    }
+#div_by_search .uif_search_term{    display: block;
+    margin-bottom: 7px;}
+td.uif_row_button{padding: 0}
+.uif-col-left{width: 50;float: left;}
+.uif-col-right{width: 50%;margin-left: 1%;float: right;}
+#uif_cache_form p.submit{
+	display: inline-block;
+    float: left;
+    margin-right: 10px;
+}
+#uif_reset_cache{display: inline-block;
+    margin-top: 20px;}
+
+th.uif_sub_title{    padding: 0;
+    font-size: 16px;
+    font-weight: bold;
+    border-bottom: 1px solid #000;
+    padding-bottom: 8px;}

@@ -1,0 +1,10 @@
+.uif_3_blocks{width:33.3333%;float:left;padding: 5px;}
+.uif_button{    clear: both;
+    margin: 10px 0;
+}
+.uif_button a{display: inline-block;
+    background: #262626;
+    padding: 5px 25px;
+    color: #fff;
+    border-radius: 5px;border:1px solid #fff;}
+.uif_button a:hover{background: #fff;color:#262626;border:1px solid #262626; transition: .4s all ease;}
