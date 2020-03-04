@@ -9,7 +9,7 @@
  * that starts the plugin.
  *
  * @link              omark.me
- * @since             1.3.5
+ * @since             1.3.522
  * @package           Ultimate_Instagram_Feed
  *
  * @wordpress-plugin
